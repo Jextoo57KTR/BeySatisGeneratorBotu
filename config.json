@@ -1,0 +1,7 @@
+{
+
+    "token":"YOURBOTTOKEN",
+    "cmd_channel": YOURCHANNELID,
+    "cooldown": CooldownNumberInsSeconds
+}
+
